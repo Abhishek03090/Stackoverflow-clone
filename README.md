@@ -40,11 +40,10 @@ Before running the project, ensure you have the following installed:
 
 ### Technologies
 
-MongoDB
-Express.js
-React.js
-Node.js
-[Additional libraries/frameworks used]
+- MongoDB
+- Express.js
+- React.js
+- Node.js
 
 
 ### Contributing
