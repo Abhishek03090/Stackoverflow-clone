@@ -35,8 +35,8 @@ Before running the project, ensure you have the following installed:
 - MongoDB
 
  ### Usage
-Open your browser and go to http://localhost:3000 to access the client application.
-The server runs on http://localhost:5000.
+- Open your browser and go to http://localhost:3000 to access the client application.
+- The server runs on http://localhost:5000.
 
 ### Technologies
 
